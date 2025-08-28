@@ -5,8 +5,6 @@ format:
     page-layout: full
 ---
 
-# Delhi Air Quality Forecast Map
-
 Welcome to the **PM₂.₅ Forecasting Dashboard** for Delhi. This interactive map shows real-time station-level forecasts of air pollution across 22 monitoring stations in the city.
 
 Click on any station marker to view the **3-day PM₂.₅ forecast**, generated using the **TimesFM model**, which analyzes the past 14 days of data to predict future air quality.
